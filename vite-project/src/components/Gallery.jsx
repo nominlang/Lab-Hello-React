@@ -20,7 +20,7 @@ function Gallery() {
      id='img4'
       src="./src/assets/img4.png"
     />
-       </div>
+     </div>
     );
   }
   

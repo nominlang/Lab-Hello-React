@@ -17,12 +17,11 @@ function Navbar() {
         src="./src/assets/nav.png"
         />
     <div>
-    <h1>Say hello to</h1>
-        <h1>React JS</h1>
-        <p>You will how to use</p>
-        <p>the most popular frontend library,</p>
-        <p>and become a super Ninja developer.</p>
+    <h1>Say hello to <br /> React JS</h1>
+        <p class='headerText'>You will learn how to use <br /> the most popular frontend library,
+        <br /> and become a super Ninja developer.</p>
     </div>
+
 
     <a href="/">
         <button className="btn">Awesome!</button>
