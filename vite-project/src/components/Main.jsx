@@ -28,9 +28,9 @@ function Navbar() {
         <button className="btn">Awesome!</button>
       </a>
 
+      
       </nav>
     
-
     );
   }
   

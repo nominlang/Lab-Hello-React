@@ -7,9 +7,9 @@
 nav {
   margin: 20px;
   padding: 0px 20px;
-  background: rgba(0, 15, 132, 0.637);
+  background: rgba(29,33,47,255);
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.24);
-  width: 330%;
+  width: 105%;
   height: 800px;
 }
 
@@ -20,3 +20,43 @@ nav {
   margin-right: 10px;
 }
 
+#logo-img {
+  margin-top: 40px;
+  margin-left: 50px;
+  background-image: none;
+}
+
+#nav-img {
+  background-image: none;
+}
+
+h1 {
+  color: white;
+  margin-top: 150px;
+  margin-left: 90px;
+}
+
+p {
+  color: white;
+}
+
+
+
+#gallery {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20%;
+}
+
+#img1 {
+  margin-left: 100px;
+}
+#img2 {
+  margin-left: 100px;
+}
+#img3 {
+  margin-left: 100px;
+}
+#img4 {
+  margin-left: 100px;
+}
